@@ -10,4 +10,4 @@
     <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-## Estou sempre buscando aprimorar minhas habilidades, acompanhando as inovações e melhores práticas do mercado para oferecer soluções de alta qualidade.
+### Estou sempre buscando aprimorar minhas habilidades, para oferecer soluções de alta qualidade.
