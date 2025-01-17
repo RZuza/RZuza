@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Rikelmy Zuza👋🏾
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RZuza&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rzuza&layout=compact)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RZuza&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RZuza&hide_progress=true)
 <div style="display: inline_block"><br/>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <img aling="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
