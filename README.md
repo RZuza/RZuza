@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rikelmy Zuza👋🏾
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RZuza&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RZuza&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RZuza&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
@@ -11,5 +11,3 @@
     <img aling="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RZuza&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
